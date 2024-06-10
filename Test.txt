@@ -1,7 +1,3 @@
 Test
 test
-<<<<<<< HEAD
 테스트
-=======
-test
->>>>>>> master
